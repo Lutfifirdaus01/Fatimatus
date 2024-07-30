@@ -17,12 +17,7 @@
 <link rel="icon" type="image/x-icon" href="https://malasid.github.io/favicon.png">
 <meta name="description" content="HTML Bucin Malas.id">
 <!-- 
-  Made with love by Rayys!
-  
-     Blog: feeldream.id
-     Instagram: @rayyarrr
-     TikTok: @feelthisray
-     Email: rayyarr73@gmail.com
+  Made with love by lutfi firdaus
      
   Thanks to all <3
 -->
@@ -65,7 +60,7 @@
      <div><div id='pergeseran'>
      	
         <p><b>
-	        <span>hii ayaangggg</span>
+	        <span>hii Fatimah</span>
         </b></p>
         
         <p><b>
